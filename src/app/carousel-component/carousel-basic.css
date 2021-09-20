@@ -1,0 +1,14 @@
+.carousel-wrapper {
+  border-style: solid;
+  border: 20px;
+}
+
+.carousel-header {
+  text-transform: uppercase;
+  background-color: black;
+  color: azure;
+  height: 10px;
+  width: 100%;
+  border-style: solid;
+  border: 10px, solid, white;
+}
